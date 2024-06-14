@@ -1,5 +1,5 @@
 /**
- * Problem 1: Closure and Scope
+ * Problem 5: Closure and Scope
  *
  * Implement a function `createCounter` that returns a counter function.
  * The counter function should return a sequential number each time it's called, starting from 1.
